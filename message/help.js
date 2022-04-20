@@ -31,8 +31,8 @@ ${mundur.data.result}
 ✍ Prefix : ⟨ ${prefix} ⟩
 🌎 Language : Javascript
 🗄️ Lib : Baileys-Md
-✉ Email : lyliachan45@gmail.com
-💌 Email2 : lionsuzune99@gmail.com
+✉ Email : gans66792@gmail.com
+💌 Email2 : gans66792@gmail.com
 ⌚ Time : ${jam}
 📆 Date : ${tanggal}
 📶 Speed : ${latensi.toFixed(4)}
@@ -184,7 +184,7 @@ exports.tos = (pushname, ownerNumber) => {
 
 Hai ${pushname}👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 085795586847 (OVO/Dana/GoPay)
+🏧 082323341102 (Dana)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
@@ -204,9 +204,9 @@ exports.rules = (prefix) => {
 •  Harley bot *Jika kmu Chat Owner Atau Sv Owner Jangan Ketik p Harus BeriSalam*
 •  Harley bot *Jangan Ngejek bot*
 
-• Grup Gc Harley-bot
-Group Harley 1
-https://bit.ly/3xtdwn3
+• Grup Gc KazuKibot
+Group 1
+https://bit.ly/3xtdwn
 
-_Created By : SashaSamiya_`
+_Created By : KazuKi_`
 }
